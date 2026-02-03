@@ -1,0 +1,7 @@
+__pycache__/
+captures/
+*.pyc
+.env
+.git/
+*.log
+*.xlsx
