@@ -1,9 +1,0 @@
-Flask>=2.0
-gunicorn
-selenium>=4.0
-beautifulsoup4
-pandas
-requests
-gspread
-google-auth
-openpyxl
